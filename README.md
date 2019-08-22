@@ -1,2 +1,2 @@
 # simple-demo
-his is my learning project
+This is my learning project
